@@ -1,0 +1,24 @@
+﻿=== RawJade Whitepaper is Live! ===
+
+📖 Read Online: https://rawjade.gitbook.io/rawjade-whitepaper/
+
+✨ Features:
+- Complete whitepaper (14 chapters + 6 appendices)
+- Searchable content
+- Mobile responsive
+- Clean navigation
+- Multi-language ready (translations coming soon)
+
+📊 Key Sections:
+- Executive Summary
+- The Vision (Polycrisis to Polytunity)
+- The Architecture (0% fees, 6% Reserve Pool)
+- The Ecosystem (5 Archetypes)
+- The Execution (18-month proof of concept)
+- Join the Movement (Investment & Participation)
+
+Share with:
+- Potential investors
+- First Comer merchants
+- Team members
+- Community
