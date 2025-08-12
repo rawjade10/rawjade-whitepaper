@@ -1,4 +1,18 @@
-﻿# RawJade Whitepaper - English Version
+﻿# RawJade Whitepaper v0.9H
+
+**From Polycrisis to Polytunity: The Revolutionary Vision of Participant Economy**
+
+## 🌐 Language Selection
+
+### 🇰🇷 한국어 (Korean - Complete Translation)
+**[한국어 백서 보기 →](../ko/README.md)**
+
+Complete Korean translation is now available. Experience the transformation from polycrisis to polytunity in Korean.
+
+### 🇺🇸 English (Original)
+**Continue reading in English below**
+
+---
 
 ## Executive Summary
 
@@ -8,50 +22,21 @@ Every day, 50 million creators upload content, chase algorithms, and dream of su
 
 RawJade doesn't fix the creator economy. We replace it with the participant economy.
 
-## Quick Navigation
+## Core Innovation
 
-📖 **[Read Executive Summary](./executive-summary.md)**
+* **💎 300,000 tons of preserved jade** - Physical backing for 300B RawDE tokens
+* **🏪 25,000 First Comer network** - Global pioneer merchants  
+* **🎨 AI-democratized creation** - 30-conversation protocol
+* **💰 0% platform fees forever** - Mutual success architecture
 
-### Main Sections
+## Quick Start
 
-1. **[Part I: The Vision](./part-1-vision/README.md)**
-   - From Polycrisis to Polytunity
-   - The 99.7% Problem  
-   - The Participant Solution
-
-2. **[Part II: The Architecture](./part-2-architecture/README.md)**
-   - Four Pillars System
-   - Token Economics
-   - Mutual Success Architecture
-
-3. **[Part III: The Ecosystem](./part-3-ecosystem/README.md)**
-   - Five Archetypes
-   - Technology Infrastructure
-   - Governance Evolution
-
-4. **[Part IV: The Execution](./part-4-execution/README.md)**
-   - Proof of Concept
-   - Global Expansion
-   - Risk Management
-
-5. **[Part V: Join the Movement](./part-5-join/README.md)**
-   - Investment Proposition
-   - Join the Movement
-
-📚 **[Appendices](./appendices/README.md)**
-   - Financial Model, Technical Specs, Legal Structure, Team, FAQ, Glossary
+* **💰 Investment**: [Investment Proposition](part-5-movement/chapter-13-investment.md)
+* **🏪 Merchants**: [Join the Movement](part-5-movement/chapter-14-join.md)
+* **❓ Questions**: [FAQ](appendices/appendix-e-faq.md)
 
 ---
 
-## The Opportunity
+*"From polycrisis to polytunity - the complete blueprint for participant economy"*
 
-- **Seed Round**:  from 10 investors @  each
-- **First Comers**: 25,000 merchant positions globally
-- **Platform Fees**: 0% forever (guaranteed by smart contract)
-- **Your Role**: Investor, Merchant, Creator, or Appreciator
-
-## Contact
-
-- 📧 Investment: invest@rawjade.com
-- 🏪 First Comers: firstcomer@rawjade.com
-- 🌐 Website: www.rawjade.com
+**RawJade Foundation, 2025**

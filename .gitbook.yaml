@@ -4,13 +4,13 @@ structure:
   readme: README.md
   summary: SUMMARY.md
 
-title: RawJade Whitepaper v0.9H
-description: From Polycrisis to Polytunity
+title: RawJade 백서 v0.9H
+description: 다중위기에서 다중기회로 - 참여 경제의 혁명적 비전
+
+# 한국어를 메인 언어로 설정
+defaultLanguage: ko
 
 plugins:
   - search
-  - fontsettings
+  - fontsettings  
   - theme-default
-
-# 강제 업데이트를 위한 타임스탬프
-updated: 2025-08-12 16:13:15
