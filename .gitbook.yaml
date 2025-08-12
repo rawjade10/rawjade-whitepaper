@@ -4,13 +4,17 @@ structure:
   readme: README.md
   summary: SUMMARY.md
 
-title: RawJade 백서 v0.9H
-description: 다중위기에서 다중기회로 - 참여 경제의 혁명적 비전
-
-# 한국어를 메인 언어로 설정
-defaultLanguage: ko
+title: RawJade Whitepaper v0.9H
+description: From Polycrisis to Polytunity - Multilingual Edition
 
 plugins:
   - search
-  - fontsettings  
+  - fontsettings
   - theme-default
+  - advanced-emoji
+
+# 다국어 지원 설정
+variables:
+  languages:
+    ko: "한국어"
+    en: "English"

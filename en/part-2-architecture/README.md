@@ -1,16 +1,16 @@
 ﻿# Part II: The Architecture
 
-This section details the technical and economic architecture that powers RawJade's participant economy.
+## 🏗️ Four Pillars System and Token Economics
 
-## Chapters
+Detailed explanation of RawJade's technical and economic design principles.
 
-4. [Four Pillars System](./chapter-4-pillars.md)
-5. [Token Economics](./chapter-5-token.md)
-6. [Mutual Success Architecture](./chapter-6-mutual.md)
+### Core Components
 
-## Key Concepts
+- **ANCHOR**: 300,000 tons preserved jade and FlowID system
+- **CHAIN**: 84 RawMines and 315 flowStation network  
+- **ENGINE**: Cold-to-Hot liquidity and FSC health metrics
+- **FUEL**: Raw cultural resources and Raw30 creation system
 
-- **0% Platform Fees Forever**
-- **6% Reserve Pool System**
-- **300 Billion RawDE Tokens**
-- **FSC (FlowStation Coefficient)**
+---
+
+*"Preservation creates more value than extraction."*
