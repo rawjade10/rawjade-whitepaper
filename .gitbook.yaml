@@ -1,36 +1,16 @@
-﻿# GitBook Configuration
-root: ./
+﻿root: ./
 
 structure:
   readme: README.md
   summary: SUMMARY.md
 
-# 다국어 설정
-languages:
-  - name: English
-    code: en
-    path: ./
-  - name: 한국어
-    code: ko
-    path: ./ko
+title: RawJade Whitepaper v0.9H
+description: From Polycrisis to Polytunity
 
-# 테마 설정
-theme:
-  color: blue
-  layout: default
-
-# 플러그인 설정
 plugins:
   - search
   - fontsettings
   - theme-default
 
-# PDF 설정
-pdf:
-  fontSize: 12
-  paperSize: a4
-  margin:
-    top: 20
-    bottom: 20
-    left: 20
-    right: 20
+# 강제 업데이트를 위한 타임스탬프
+updated: 2025-08-12 16:13:15

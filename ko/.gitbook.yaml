@@ -1,0 +1,48 @@
+﻿{
+  "title": "RawJade 백서 v0.9H",
+  "description": "다중위기에서 다중기회로 - 참여 경제의 혁명적 비전",
+  "lang": "ko",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "search-pro@^2.0.2",
+    "advanced-emoji@^0.2.2",
+    "github@^2.0.0",
+    "editlink@^1.0.2",
+    "prism@^2.4.0",
+    "-highlight",
+    "github-buttons@^2.1.0",
+    "sharing-plus@^0.0.2",
+    "splitter@^0.0.8",
+    "tbfed-pagefooter@^0.0.1"
+  ],
+  "pluginsConfig": {
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord": ["RawJade", "옥편", "문화채굴", "FlowID", "First Comer"]
+    },
+    "github": {
+      "url": "https://github.com/rawjade/whitepaper"
+    },
+    "editlink": {
+      "base": "https://github.com/rawjade/whitepaper/edit/main/ko",
+      "label": "이 페이지 편집하기"
+    },
+    "sharing": {
+      "twitter": true,
+      "facebook": true,
+      "kakao": true,
+      "line": true,
+      "weibo": false,
+      "instapaper": false,
+      "vk": false
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy; RawJade Foundation 2025",
+      "modify_label": "마지막 수정:",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
+}

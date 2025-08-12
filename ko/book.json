@@ -1,47 +1,35 @@
 ﻿{
-  "gitbook": "3.x.x",
-  "title": "RawJade 백서",
+  "title": "RawJade 백서 v0.9H - 한국어",
   "description": "다중위기에서 다중기회로 - 참여 경제의 혁명적 비전",
   "language": "ko",
   "author": "RawJade Foundation",
-  "links": {
-    "sidebar": {
-      "RawJade 웹사이트": "https://www.rawjade.com"
-    }
+  "gitbook": "3.x.x",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
   },
   "plugins": [
     "search-pro",
     "advanced-emoji",
+    "-lunr",
+    "-search",
     "github",
-    "editlink",
-    "prism",
-    "-highlight",
-    "github-buttons",
-    "sharing-plus",
-    "splitter",
-    "tbfed-pagefooter"
+    "editlink"
   ],
   "pluginsConfig": {
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord": ["RawJade", "옥편", "문화채굴", "FlowID", "First Comer", "참여경제"]
+    },
     "github": {
       "url": "https://github.com/rawjade/whitepaper"
     },
     "editlink": {
-      "base": "https://github.com/rawjade/whitepaper/edit/main",
-      "label": "이 페이지 편집"
-    },
-    "sharing": {
-      "twitter": true,
-      "facebook": true,
-      "google": false,
-      "weibo": false,
-      "instapaper": false,
-      "vk": false,
-      "all": ["twitter", "facebook", "google", "weibo", "instapaper"]
-    },
-    "tbfed-pagefooter": {
-      "copyright": "Copyright &copy; RawJade Foundation 2025",
-      "modify_label": "마지막 수정:",
-      "modify_format": "YYYY-MM-DD HH:mm:ss"
+      "base": "https://github.com/rawjade/whitepaper/edit/main/ko",
+      "label": "✏️ 이 페이지 편집"
     }
+  },
+  "variables": {
+    "updated": "2025-08-12 16:13:16"
   }
 }
