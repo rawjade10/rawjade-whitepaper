@@ -1,8 +1,36 @@
-﻿root: ./
+﻿# GitBook Configuration
+root: ./
 
 structure:
   readme: README.md
   summary: SUMMARY.md
 
-redirects:
-  previous/page: new-folder/page.md
+# 다국어 설정
+languages:
+  - name: English
+    code: en
+    path: ./
+  - name: 한국어
+    code: ko
+    path: ./ko
+
+# 테마 설정
+theme:
+  color: blue
+  layout: default
+
+# 플러그인 설정
+plugins:
+  - search
+  - fontsettings
+  - theme-default
+
+# PDF 설정
+pdf:
+  fontSize: 12
+  paperSize: a4
+  margin:
+    top: 20
+    bottom: 20
+    left: 20
+    right: 20
