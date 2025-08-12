@@ -1,64 +1,57 @@
-﻿# RawJade Whitepaper
+﻿# RawJade Whitepaper - English Version
 
-## From Polycrisis to Polytunity: The Participant Economy Revolution
-
-Version 0.9H | 2025
-
----
-
-## 📖 Quick Navigation
-
-- [Executive Summary](./executive-summary.md)
-- [Part I: The Vision](./part-1-vision/README.md)
-- [Part II: The Architecture](./part-2-architecture/README.md)
-- [Part III: The Ecosystem](./part-3-ecosystem/README.md)
-- [Part IV: The Execution](./part-4-execution/README.md)
-- [Part V: Join the Movement](./part-5-join/README.md)
-- [Appendices](./appendices/README.md)
-
-## 🎯 Core Innovation
+## Executive Summary
 
 **The Creator Economy Has Failed. We're Building What Comes Next.**
 
-- **99.7%** of creators fail to make a living
-- **30-50%** platform fees extract value
-- **0%** is what viewers earn for their attention
+Every day, 50 million creators upload content, chase algorithms, and dream of success. Only 150,000 make a living. That's a 99.7% failure rate.
 
-RawJade transforms this through:
-- **0% platform fees forever**
-- **6% Reserve Pool** for mutual success
-- **300,000 tons** of preserved jade backing
-- **Everyone creates value** through participation
+RawJade doesn't fix the creator economy. We replace it with the participant economy.
 
-## 📊 By the Numbers
+## Quick Navigation
 
-| Metric | Value |
-|--------|-------|
-| Total RawDE Supply | 300 billion |
-| Preserved Jade | 300,000 tons |
-| First Comers | 25,000 merchants |
-| Target Cities | 315 by 2036 |
-| Platform Fees | 0% forever |
-| Reserve Pool | 6% of advertising |
+📖 **[Read Executive Summary](./executive-summary.md)**
 
-## 🚀 Join the Movement
+### Main Sections
 
-### For Investors
-- Seed Round:  from 10 investors
-- Contact: invest@rawjade.com
+1. **[Part I: The Vision](./part-1-vision/README.md)**
+   - From Polycrisis to Polytunity
+   - The 99.7% Problem  
+   - The Participant Solution
 
-### For Merchants
-- Become a First Comer
-- Contact: firstcomer@rawjade.com
+2. **[Part II: The Architecture](./part-2-architecture/README.md)**
+   - Four Pillars System
+   - Token Economics
+   - Mutual Success Architecture
 
-### For Everyone
-- Create your FlowID today
-- Visit: www.rawjade.com
+3. **[Part III: The Ecosystem](./part-3-ecosystem/README.md)**
+   - Five Archetypes
+   - Technology Infrastructure
+   - Governance Evolution
+
+4. **[Part IV: The Execution](./part-4-execution/README.md)**
+   - Proof of Concept
+   - Global Expansion
+   - Risk Management
+
+5. **[Part V: Join the Movement](./part-5-join/README.md)**
+   - Investment Proposition
+   - Join the Movement
+
+📚 **[Appendices](./appendices/README.md)**
+   - Financial Model, Technical Specs, Legal Structure, Team, FAQ, Glossary
 
 ---
 
-*"Not mining to create more value. Not owning to share prosperity. Not competing to grow together."*
+## The Opportunity
 
-**This is not just a new economic model. This is a new civilization.**
+- **Seed Round**:  from 10 investors @  each
+- **First Comers**: 25,000 merchant positions globally
+- **Platform Fees**: 0% forever (guaranteed by smart contract)
+- **Your Role**: Investor, Merchant, Creator, or Appreciator
 
-— RawJade Foundation, 2025
+## Contact
+
+- 📧 Investment: invest@rawjade.com
+- 🏪 First Comers: firstcomer@rawjade.com
+- 🌐 Website: www.rawjade.com
